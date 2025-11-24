@@ -1,2 +1,1 @@
-"# TalentCore" 
-"# TalentCore" 
+"# TalentCore"  
